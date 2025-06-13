@@ -1,5 +1,5 @@
 import Encabezado from './components/Encabezado';
-import Acerca from './components/acerca';
+import Acerca from './components/Acerca';
 import Educacion from './components/Educacion';
 import Habilidades from './components/Habilidades';
 import Experiencia from './components/Experiencia';
